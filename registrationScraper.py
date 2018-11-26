@@ -1,3 +1,6 @@
+#BeautifulSoup must be installed on the local machine in order to run this script
+#sudo apt-get install python-bs4
+#note: This is python 2.7
 import urllib2
 from HTMLParser import HTMLParser
 from htmlentitydefs import name2codepoint
